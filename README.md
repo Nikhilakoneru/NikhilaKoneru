@@ -44,6 +44,7 @@ Here are some ideas to get you started:
  
 - 😄 Pronouns: She/Her
 <br>
+<br>
 <hr>
     
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tech Stack!*** 
