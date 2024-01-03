@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 <hr>
 
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Bomkar-ghongade%7D/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7BNikhilaXKoneru%7D/count.svg" alt="visitor badge"/></p>
 
 <hr>
     
