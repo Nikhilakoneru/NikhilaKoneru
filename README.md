@@ -72,11 +72,18 @@ Here are some ideas to get you started:
  
   
 <hr>
+   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilaXKoneru&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikhilaXKoneru&themes=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+  
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=NikhilaXKoneru&theme=chartreuse-dark"></p>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BNikhilaXKoneru%7D/count.svg" alt="visitor badge"/></p>
 
 <hr>
+
     
 ### :link: &nbsp;Connect with me
     
