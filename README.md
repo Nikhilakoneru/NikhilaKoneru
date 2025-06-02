@@ -96,9 +96,9 @@ Hello! I'm **Nikhila Koneru**, a passionate **Cloud Computing Engineer**, **Full
       <em>Modern web applications & APIs</em>
     </td>
     <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=solidity,ethereum" /><br>
-      <strong>Blockchain Development</strong><br>
-      <em>Lightning Network & DeFi applications</em>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" /><br>
+      <strong>AI/ML Engineering</strong><br>
+      <em>Machine learning models & data analysis</em>
     </td>
   </tr>
 </table>
